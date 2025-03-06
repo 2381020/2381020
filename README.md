@@ -10,7 +10,10 @@ Halo semua perkenalkan namaku Andrew Simbolon<br>bisa dipanggil aku andrew <br>s
 
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/) [![XML](https://img.shields.io/badge/XML-%23ff6600.svg?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/) [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-  
+# 🛠️ Inspiration/Tools: 
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)  
+[![Claude](https://img.shields.io/badge/Claude-%231A1A1A.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=2381020&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
