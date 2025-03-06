@@ -1,10 +1,11 @@
 # 💫 About Me:
-Halo semua perkenalkan namaku Andrew Simbolon<br>bisa dipanggil aku andrew <br>saat ini aku adalah seorang mahasiswa jurusan TI<br>dan lagi mempelajari beberapa bahasa pemrograman.
+Hello everyone, my name is Andrew Simbolon<br>You can call me Andrew <br>I am currently a student majoring in IT<br>currently studying some programming languages.
 
 <br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alvinganzz50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alviindamanik_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-simbolon-811923326/)
+
 
 <br>
 
