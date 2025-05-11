@@ -44,6 +44,12 @@ Currently studying some programming languages.
 
 [![](https://visitcount.itsvg.in/api?id=2381020&icon=0&color=12)](https://visitcount.itsvg.in)
 
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 ---
 
 <picture>
