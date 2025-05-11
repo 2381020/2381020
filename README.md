@@ -46,16 +46,15 @@ Currently studying some programming languages.
 
 ---
 
-## 🟡 Pacman Contribution Graph:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2381020/output/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2381020/output/main/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/2381020/output/main/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph.svg">
 </picture>
 
----
+###
 
-## 🐍 Snake Contribution Graph:
-<img src="https://raw.githubusercontent.com/2381020/output/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/2381020/2381020/output/snake.svg" alt="Snake animation" />
 
+###
 ---
