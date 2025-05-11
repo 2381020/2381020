@@ -42,14 +42,15 @@ Currently studying some programming languages.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=2381020&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
+## 🎧 Spotify Recently Played:
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t4xj5rzgmsp7isj6ouwveazqy&count=5&width=600&unique=true" alt="Spotify Recently Played" />
 </div>
 
-###
+---
+
+[![](https://visitcount.itsvg.in/api?id=2381020&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ---
 
 <picture>
@@ -58,9 +59,6 @@ Currently studying some programming languages.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/2381020/2381020/output/snake.svg" alt="Snake animation" />
 
-###
 ---
