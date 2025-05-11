@@ -1,3 +1,6 @@
+
+![Header](github-header-image.png)
+
 # 💫 About Me:
 Hello everyone, my name is Andrew Simbolon  
 You can call me Andrew  
