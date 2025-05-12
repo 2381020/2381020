@@ -43,10 +43,9 @@ Currently studying some programming languages.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2381020&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2381020&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Pengunjung"  />
-##
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph-dark.svg">
