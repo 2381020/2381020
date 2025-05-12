@@ -44,6 +44,7 @@ Currently studying some programming languages.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2381020&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Pengunjung"  />
 
 ---
 
