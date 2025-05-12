@@ -57,12 +57,11 @@ Currently studying some programming languages.
 
 
 ---
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Visitor"  />
-
-
 
 
 <h3 align="center">Trophy</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2381020&theme=darkhub" alt="2381020" /></a> </p>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Visitor"  />
 
