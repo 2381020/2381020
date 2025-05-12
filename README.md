@@ -53,6 +53,6 @@ Currently studying some programming languages.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2381020/2381020/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/2381020/2381020/output/snake.svg" alt="Snake animation" />
+
 
 ---
