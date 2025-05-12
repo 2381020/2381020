@@ -57,4 +57,4 @@ Currently studying some programming languages.
 
 
 ---
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Pengunjung"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=2381020.2381020&left_color=black&right_color=tomato&left_text=Visitor"  />
